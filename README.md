@@ -20,7 +20,7 @@ A bar chart showing the most prevalent genres:
 
 Drama leads, followed by unknown, comedy, action, romance, horror, thriller, western, crime, adventure, musical, science fiction, romantic comedy, family, and crime drama.
 
-![Top Movie Genres](top_genre.jpg)
+![Top Movie Genres](top_genre.png)
 
 **Evolution of Top Genres Over Time**
 A line graph tracking genre popularity from 1900 to 2000:
@@ -51,6 +51,6 @@ Visualizations: Bar charts for accuracy and training time; confusion matrices.
 # Results and Conclusions
 
 Logistic Regression achieved the highest accuracy but has moderate training time.
-Challenges: ~49% accuracy indicates room for improvement, possibly with advanced NLP (e.g., BERT) or multimodal data.
+Challenges: As this was a project of my academic ML course, I was bound to use only ML model but 49% accuracy indicates room for improvement, possibly with advanced NLP (like BERT) or multimodal data.
 Confusion matrices show strength in major genres (drama, comedy, action) but weaknesses in others.
 Future Work: Explore multimodal features (trailers, posters) or deep learning models.
