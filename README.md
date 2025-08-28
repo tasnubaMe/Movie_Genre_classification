@@ -20,7 +20,7 @@ A bar chart showing the most prevalent genres:
 
 Drama leads, followed by unknown, comedy, action, romance, horror, thriller, western, crime, adventure, musical, science fiction, romantic comedy, family, and crime drama.
 
-![Top Movie Genres](top_movie_genres.jpg)
+![Top Movie Genres](top_genre.jpg)
 
 **Evolution of Top Genres Over Time**
 A line graph tracking genre popularity from 1900 to 2000:
